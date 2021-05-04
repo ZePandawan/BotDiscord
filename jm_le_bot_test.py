@@ -94,4 +94,4 @@ async def on_message(message) :
 
 
 #Lancer le bot
-client.run("ODM2OTQzNDA4MzYyMjkxMjIw.YIlWSg.Q_pGCPkyJKDkmnsS185YcmFkA7w")
+client.run("")
